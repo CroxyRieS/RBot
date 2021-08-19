@@ -1,8 +1,8 @@
 {
-  "name": "gways",
+  "name": "rysus",
   "version": "1.0.0",
-  "description": "Space Giveaway Alt yapı",
-  "main": "space-giveaway.js",
+  "description": "RysuS Alt yapı",
+  "main": "rysus.js",
   "dependencies": {
     "discord.js": "^12.5.3",
     "fs": "^0.0.2",
@@ -15,7 +15,7 @@
     "node": "12.x"
   },
   "keywords": [
-    "Uğur Bediroğlu",
+    "burak",
     "youtube"
   ],
   "author": "",
