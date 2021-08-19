@@ -1,0 +1,23 @@
+{
+  "name": "gways",
+  "version": "1.0.0",
+  "description": "Space Giveaway Alt yapı",
+  "main": "space-giveaway.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "croxydb": "^0.0.7"
+  },
+  "scripts": {
+    "start": "node shard.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "Uğur Bediroğlu",
+    "youtube"
+  ],
+  "author": "",
+  "license": "YOK"
+}
